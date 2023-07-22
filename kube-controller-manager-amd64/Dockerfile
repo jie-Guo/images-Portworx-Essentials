@@ -1,0 +1,1 @@
+from registry.k8s.io/kube-controller-manager-amd64:v1.26.6

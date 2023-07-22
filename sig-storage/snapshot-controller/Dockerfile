@@ -1,0 +1,1 @@
+from registry.k8s.io/sig-storage/snapshot-controller:v6.1.0

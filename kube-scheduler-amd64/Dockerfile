@@ -1,0 +1,1 @@
+from registry.k8s.io/kube-scheduler-amd64:v1.26.6
